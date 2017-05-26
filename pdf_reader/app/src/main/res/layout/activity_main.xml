@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.asheransari.pdf_reader.MainActivity">
+    <include layout="@layout/context_main"/>
+
+</RelativeLayout>
+
+<!--<ListView android:id="@id/android:list"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:drawSelectorOnTop="false"-->
+    <!--android:scrollbars="vertical"-->
+    <!--xmlns:android="http://schemas.android.com/apk/res/android" >-->
+    <!---->
+<!--</ListView>-->
+
+    <!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<ListView xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--android:id="@+id/list"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent"-->
+        <!--android:drawSelectorOnTop="false"-->
+        <!--android:orientation="vertical" />-->
+<!--</RelativeLayout>-->
